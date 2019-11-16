@@ -1,11 +1,9 @@
-# Card-counter-for-Trello
-
 ![](https://raw.githubusercontent.com/matsuoshi/Card-counter-for-Trello/media/icon.png)
 
-Chrome Extension for Trello : Show card count in your Trello lanes
+# Card counter for Trello
+
+Chrome extension for Trell users. Show card count in your Trello lanes.
 
 ## screenshots
 
 ![screenshot](https://raw.githubusercontent.com/matsuoshi/Card-counter-for-Trello/media/screenshot1.png)
-
-always show card count at the top of Trello lanes.
