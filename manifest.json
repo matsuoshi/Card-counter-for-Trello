@@ -1,5 +1,5 @@
 {
-    "name": "Trello card counter",
+    "name": "Card counter for Trello",
     "manifest_version": 2,
     "author": "matsuoshi",
     "description": "Show card count in your Trello lanes",
