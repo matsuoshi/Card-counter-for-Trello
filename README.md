@@ -12,4 +12,5 @@ Always show card count numbers at the top of your Trello lanes.
 
 ## links
 
-- https://chrome.google.com/webstore/detail/gaafcohgckclklihjchllmhlhpclogfm
+- Chrome webstore
+    - https://chrome.google.com/webstore/detail/gaafcohgckclklihjchllmhlhpclogfm
