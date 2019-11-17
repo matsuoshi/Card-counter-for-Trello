@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/matsuoshi/Card-counter-for-Trello/media/icon.png)
+![](https://raw.githubusercontent.com/matsuoshi/Card-counter-for-Trello/media/icons/icon128.png)
 
 # Card counter for Trello
 
