@@ -2,7 +2,7 @@
 
 # Card counter for Trello
 
-Chrome extension for Trell users.
+Chrome extension for Trello users.
 
 Always show card count numbers at the top of your Trello lanes.
 
